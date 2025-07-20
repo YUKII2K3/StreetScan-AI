@@ -1,0 +1,23 @@
+# RTSP Vehicle Detection System Requirements
+# Academic Research Project
+
+# Core dependencies
+opencv-python>=4.5.0
+ultralytics>=8.0.0
+numpy>=1.19.0
+
+# Optional: TensorFlow (may not be compatible on all systems)
+# tensorflow>=2.0.0
+
+# Additional dependencies (installed automatically with ultralytics)
+# torch>=1.8.0
+# torchvision>=0.9.0
+# matplotlib>=3.3.0
+# pillow>=7.1.2
+# pyyaml>=5.3.1
+# requests>=2.23.0
+# scipy>=1.4.1
+# tqdm>=4.64.0
+# psutil
+# py-cpuinfo
+# pandas>=1.1.4 
