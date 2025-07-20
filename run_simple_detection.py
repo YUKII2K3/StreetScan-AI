@@ -14,6 +14,7 @@ Features:
     - No TensorFlow dependency
 
 Author: Academic Research Team
+Crafted by Yukthesh - Building intelligent solutions for the future
 """
 
 import sys

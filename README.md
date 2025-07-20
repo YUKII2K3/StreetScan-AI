@@ -319,3 +319,20 @@ This is an academic research project. For contributions:
 **License**: MIT  
 **Version**: 1.0.0  
 **Compatibility**: Python 3.7+, macOS, Linux, Windows
+
+---
+
+<div align="center">
+
+### 🎨 **Crafted by Yukthesh** 🎨
+
+*Building intelligent solutions for the future*
+
+[![GitHub](https://img.shields.io/badge/GitHub-Yukthesh-blue?style=for-the-badge&logo=github)](https://github.com/Yukthesh)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yukthesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yukthesh)
+
+---
+
+**Made with ❤️ for academic research and innovation**
+
+</div>

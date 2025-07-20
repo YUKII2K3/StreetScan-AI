@@ -10,6 +10,7 @@ This module provides:
 - No TensorFlow dependency
 
 Author: Academic Research Team
+Crafted by Yukthesh - Building intelligent solutions for the future
 """
 
 import cv2
