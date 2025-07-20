@@ -37,7 +37,7 @@ Scripts:
 
 ### 1. Clone the Repository
 ```bash
-git clone <your-repository-url>
+git clone https://github.com/YUKII2K3/StreetScan-AI.git
 cd StreetScan-AI
 ```
 
@@ -328,8 +328,8 @@ This is an academic research project. For contributions:
 
 *Building intelligent solutions for the future*
 
-[![GitHub](https://img.shields.io/badge/GitHub-Yukthesh-blue?style=for-the-badge&logo=github)](https://github.com/Yukthesh)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yukthesh-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/yukthesh)
+[![GitHub](https://img.shields.io/badge/GitHub-YUKII2K3-blue?style=for-the-badge&logo=github)](https://github.com/YUKII2K3)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuktheshwar%20MP-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/yuktheshwar-mp)
 
 ---
 
